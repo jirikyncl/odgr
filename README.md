@@ -153,113 +153,118 @@ Dá se stáhnout několik datových sad - **XML** (podle typu chráněného úze
 - **VI.** – Oblast ochrany přírodních zdrojů (Managed Resource Protected Area)
 
 
-@TODO - dale
 
 ## Registry ekonomických subjektů (IČO)
 
 ### OR / VR / VREO - Obchodní rejstřík / Veřejný rejstřík / Veřejný rejstřík ekonomických objektů / Veřejný rejstřík a sbírka listin
 
-https://or.justice.cz/ias/ui/rejstrik
-
 Více názvů pro jedno a totéž.
 
-Provozuje MS: Ministerstvo spravedlnosti
+https://or.justice.cz/ias/ui/rejstrik
 
-ARES obsahuje bulk export pro tento rejstřík. Ten zahrnuje subjekty a k nim přiřazené strukturální vazby. Je vidět, kdo je jednatelem atp.
+**Provozuje:** MS - Ministerstvo spravedlnosti
 
-Nejsou zde živnostníci..., jen společnosti.
-
-Datove sady, jako např. https://dataor.justice.cz/vos-actual-praha-2019 obsahují i údaje o exekucích a insolvencích.
+**Popis:** Nejsou zde živnostníci..., jen společnosti. Datove sady, jako např. https://dataor.justice.cz/vos-actual-praha-2019 obsahují i údaje o exekucích a insolvencích.
+a jsou ve formátech **XML** a **CSV**. ARES bulk export je právě pro tento rejstřík.
 
 
 ### RŽP - Registr živnostenského podnikání
 
 http://www.rzp.cz/
 
+@TODO
+
+
 ### RES - Registr ekonomických subjektů
 
 http://apl.czso.cz/irsw/
 
-Provozuje ČSÚ: Český statistický úřad
+https://www.czso.cz/csu/res/poskytovani_udaju_z_res
 
-Získání dat: https://www.czso.cz/csu/res/poskytovani_udaju_z_res
+**Provozuje:** ČSÚ - Český statistický úřad
 
-Cena 6000 Kč za databázi
+Popis: Cena **6000 Kč** za databázi (https://www.czso.cz/csu/res/poskytovani_udaju_z_res). Obdobná data nabízejí https://www.inisoft.cz/software/res-plus za poloviční cenu.
 
-Obdobná data nabízejí https://www.inisoft.cz/software/res-plus za poloviční cenu
 
 ### ROS - Registr osob 
 
-Pránické a podnikající osoby, přijde mi to podobné jako RES.
-
-Provozuje ČSÚ: Český statistický úřad
-
 https://www.czso.cz/csu/czso/registr_osob
 
-### ARES
+**Provozuje:** ČSÚ - Český statistický úřad
 
-Provozuje MF: Ministerstvo financí
+**Popis:** Prvánické a podnikající osoby, přijde mi to podobné jako RES.
 
-ARES čerpá data z VR, RŽP, RES
 
-obsahuje limitované API, které hledá nad všemi dílčími registry
+### ARES - Administrativní registr ekonomických subjektů
 
-obsahuje bulk soubor, kde jsou jen údaje z VR
+https://wwwinfo.mfcr.cz/ares/ares_es.html.cz
+
+**Provozuje:** MF - Ministerstvo financí
+
+**Popis:** ARES čerpá data z VR, RŽP, RES. Obsahuje limitované API, které hledá nad všemi dílčími registry, 
+ale výsledná data jsou v různých formátech. Zřejmě podle typu zdrojového registru.
+Poskytuje i bulk soubor, kde jsou jen údaje z VR. Ten je formátu XML (pro každé IČO zvlášť!).
+
 
 ## Registry obyvatel
 
+
 ### ROB - Registr obyatel
 
-Provozuje MV: Ministerstvo vnitra
+**Provozuje:** MV - Ministerstvo vnitra
 
-Obsahuje adresy, data narození osob na našem úazemí
+**Popis:** Obsahuje adresy, data narození osob na našem území. Není veřejné to vypadá, mohu se ptát jen sám na sebe nebo na nějakou osobu blízkou.
+Bez poplatku.
 
-Není veřejné to vypadá, mohu se ptát jen sám na sebe nebo na nějakou osobu blízkou.
-
-Bez poplatku
 
 ### EO - Evidence obyvatel
 
-Provozuje: Ministerstvo vnitra
+**Provozuje:** MV - Ministerstvo vnitra
 
-Obsahuje adresy, data narození osob na našem úazemí, jen státních občanů
-
-Není veřejné to vypadá, mohu se ptát jen sám na sebe nebo na nějakou osobu blízkou.
-
-Evidence obyvatel je asi jedním ze zdrojů pro ROB
-
-Správní poplatek 50 Kč
+**Popis:** Obsahuje adresy, data narození osob na našem území, jen státních občanů. Není veřejné to vypadá, mohu se ptát jen sám na sebe nebo na nějakou osobu blízkou.
+Evidence obyvatel je asi jedním ze zdrojů pro ROB. Správní poplatek 50 Kč.
 
 
 ## Registry dlužníků
 
+
 ### BRKI - Bankovní registr klientských informací
+
+@TODO
+
 
 ### NRKI - Nebankovní registr klientských informací 
 
+@TODO
+
+
 ### Solus - Sdružení na Ochranu Leasingu a Úvěrů Spotřebitelům
 
-Soukromý registr (některé pojišťovny atp.)
+Soukromý registr (některé pojišťovny atp.).
+
 
 ### CERD - Centrální registr dlužníků ČR
 
-Podvod
+**Celé je to nějaký podvod.**
+
 
 ### IR - Insolvenční rejstřík
 
 https://isir.justice.cz/isir/common/stat.do?kodStranky=SLEDOVANIWS
 
-Provozuje MS: Ministerstvo spravedlnosti
+**Provozuje:** MS - Ministerstvo spravedlnosti
 
-Poskytuje webovou službu IRIS_CUZK_WS2 pomocí které se dá dotazovat na subjekty v insolvenci pomocí SOAP.
+**Popis:** Poskytuje webovou službu IRIS_CUZK_WS2 pomocí které se dá dotazovat na subjekty v insolvenci pomocí SOAP.
+
 
 ### EÚ - Evidence úpadců
 
 http://upadci.justice.cz/cgi-bin/sqw1250.cgi/upkuk/s_i8.sqw
 
-Provozuje MS: Ministerstvo spravedlnosti
+**Provozuje:** MS - Ministerstvo spravedlnosti
 
-Webová stránka pro nalezení úpadce.
+**Popis:** Webová stránka pro nalezení úpadce. O limitech nevím.
+
 
 ## Registr exekucí
 
@@ -267,18 +272,20 @@ Webová stránka pro nalezení úpadce.
 
 https://www.ceecr.cz/
 
-Provozuje exekutorská komora
+**Provozuje:** Exekutorská komora
 
-Vyhladávání v Centrální evidenci exekucí je zpoplatněno ze zákona 329/2008 Sb. (30 - 60 Kč)
+**Popis:** Vyhladávání v Centrální evidenci exekucí je **zpoplatněno** ze zákona 329/2008 Sb. (30 - 60 Kč).
 
 
 ## Dražby 
 
 ### UZSVM - Úřad pro zastupování státu ve věcech majetkových
 
-https://www.nabidkamajetku.cz - jejich portál s dražbami majetku ve správě státu.
+https://www.nabidkamajetku.cz
 
-Otevřená data nemají, ale dá se použít jejich API, které používá FE tohohoto webu.
+**Provozuje:** MF - Ministerstvo financí
+
+**Popis:** Otevřená data vysloveně nemají, ale dá se použít jejich API, které používá FE tohohoto webu. Formát **JSON**.
 
 
 ## Zdroje
