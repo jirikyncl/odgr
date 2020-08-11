@@ -20,10 +20,15 @@ https://cuzk.cz/Katastr-nemovitosti/Poskytovani-udaju-z-KN/Poskytovani-udaju-z-K
 - **Nahlížení do KN** - webová aplikace, není dovoleno strojové zpracování
 - **Katastrální mapy** - a WMS služby
 - **Výměnný formát (VFK)** - vlastní textový formát pro výměnu dat
+- **Další výstupy** - Pak mají různé typy dat (INSPIRE, VKM, DXF, DGN), ale je to vždy podmnožina RUIAN
  
 Kromě mapových vrstev zde nic zajímavého ke zpracování zdarma vlastně není (na to stačí RUIAN). VFK je těžkopádný formát, 
 který v neplacené podobě (https://services.cuzk.cz/vfk/ku/) obsahuje základní data, v placené pak přidává například osobní 
 údaje.
+
+### Katalogy
+
+https://data.gov.cz/datov%C3%A9-sady?poskytovatel=%C4%8Cesk%C3%BD%20%C3%BA%C5%99ad%20zem%C4%9Bm%C4%9B%C5%99ick%C3%BD%20a%20katastr%C3%A1ln%C3%AD
 
 
 ## RUIAN - Registr územní identifikace adres a nemovitostí
@@ -288,32 +293,35 @@ https://www.nabidkamajetku.cz
 **Popis:** Otevřená data vysloveně nemají, ale dá se použít jejich API, které používá FE tohohoto webu. Formát **JSON**.
 
 
-## Zdroje
+## Lokální zdroje
 
 http://www.geoportalpraha.cz/cs/opendata
+
+http://opendata.praha.eu/dataset
+
+
+# Katalogy
 
 https://data.gov.cz/datov%C3%A9-sady
 
 https://data.mfcr.cz/en/dataset?query=&sort_by=changed&sort_order=ASC
 
-http://opendata.praha.eu/dataset
-
-https://www.hlidacstatu.cz/data
-
 https://opendata.gov.cz/nastroj:narodni-katalog-otevrenych-dat
 
-kokes/od
+https://www.europeandataportal.eu
 
-kokes/knod
-
-
-## Zpracovat
+# Prozkoumat
 
 NR Nadační rejstřík
+
 OR Obchodní rejstřík
+
 ROPS Rejstřík obecně prospěšných společností
+
 RSVJ Rejstřík společenství vlastníků jednotek
+
 RU Rejstřík ústavů
+
 SR Spolkový rejstřík
 
 
