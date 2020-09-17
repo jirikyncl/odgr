@@ -20,7 +20,7 @@ https://cuzk.cz/Katastr-nemovitosti/Poskytovani-udaju-z-KN/Poskytovani-udaju-z-K
 - **Nahlížení do KN** - webová aplikace, není dovoleno strojové zpracování
 - **Katastrální mapy** - a WMS služby
 - **Výměnný formát (VFK)** - vlastní textový formát pro výměnu dat
-- **INSPIRE** - @TODO
+- **INSPIRE** - Infrastruktura pro společné informace EU. Data jsou podmnožinou VFK.
 - **Další výstupy** - Pak mají různé typy dat (VKM, DXF, DGN), ale je to vždy podmnožina RUIAN
  
 Kromě mapových vrstev zde nic zajímavého ke zpracování zdarma vlastně není (na to stačí RUIAN). VFK je těžkopádný formát, 
