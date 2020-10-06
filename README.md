@@ -19,13 +19,17 @@ https://cuzk.cz/Katastr-nemovitosti/Poskytovani-udaju-z-KN/Poskytovani-udaju-z-K
 - **Dálkový přístup do KN** - webová aplikace + webová složba - **placené**
 - **Nahlížení do KN** - webová aplikace, není dovoleno strojové zpracování
 - **Katastrální mapy** - a WMS služby
-- **Výměnný formát (VFK)** - vlastní textový formát pro výměnu dat
+- **Výměnný formát (VFK)** - vlastní textový formát pro výměnu dat (https://github.com/jirikyncl/vfk-importer)
+  - https://services.cuzk.cz/vfk/ku/ - Katastrální mapa - Parcely, stavební objekty, katastrální území, města, popisné informace, věcná břemena ... (existuje placená podoba VFK, kde jsou další údaje o LV, vlastnících, ...)
+  - https://services.cuzk.cz/vfk-gmpl/ku/ - Geometrické plány
 - **INSPIRE** - Infrastruktura pro společné informace EU. Data jsou podmnožinou VFK.
+  - https://services.cuzk.cz/gml/inspire/cpx/epsg-5514/ (https://geoportal.cuzk.cz/(S(aifbxjppyy2ext15bcxt3sqg))/Default.aspx?mode=TextMeta&side=INSPIRE_PAR&metadataID=CZ-00025712-CUZK_SERIES-MD_CPX&menu=21501) 
+    rozšířené parcely (obsahuje parcely a VB).
 - **Další výstupy** - Pak mají různé typy dat (VKM, DXF, DGN), ale je to vždy podmnožina RUIAN
  
 Kromě mapových vrstev zde nic zajímavého ke zpracování zdarma vlastně není (na to stačí RUIAN). VFK je těžkopádný formát, 
 který v neplacené podobě (https://services.cuzk.cz/vfk/ku/) obsahuje základní data, v placené pak přidává například osobní 
-údaje.
+údaje. RUIAN ale neobsahuje věcná břemena.
 
 ### Katalogy
 
