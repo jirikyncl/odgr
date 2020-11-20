@@ -58,6 +58,15 @@ https://vdp.cuzk.cz/vdp/ruian/vymennyformat/vyhledej
 městské části, parcely, stavební objekty). Výstup je **XML**, které se dá zpracovat např. pomocí GDAL ogr2ogr.
 
 
+## Výškopis
+
+https://geoportal.cuzk.cz/(S(qrqwp2s1a2jpbggyphry5zpy))/Default.aspx?mode=TextMeta&metadataXSL=full&side=vyskopis&metadataID=CZ-CUZK-EL
+
+**Provozuje:** ČÚZK - Český úřad zeměměřičský a katastrální
+
+**Popis** Výškopisů je více (ZABAGED, INSPIRE) v různých přesnostech. Nenašel jsem ale žádný zdarma a ceny jsou astronimické.
+
+
 ## LPIS - Veřejný registr půdy
 
 http://eagri.cz/public/app/lpisext/lpis/verejny2/plpis/
