@@ -29,7 +29,7 @@ https://cuzk.cz/Katastr-nemovitosti/Poskytovani-udaju-z-KN/Poskytovani-udaju-z-K
  
 Kromě mapových vrstev zde nic zajímavého ke zpracování zdarma vlastně není (na to stačí RUIAN). VFK je těžkopádný formát, 
 který v neplacené podobě (https://services.cuzk.cz/vfk/ku/) obsahuje základní data, v placené pak přidává například osobní 
-údaje. RUIAN ale neobsahuje věcná břemena.
+údaje. RUIAN ale neobsahuje např. věcná břemena.
 
 ### Katalogy
 
@@ -50,12 +50,12 @@ https://nahlizenidokn.cuzk.cz/StahniAdresniMistaRUIAN.aspx
 **Popis:** Varianta buď pro celou ČR nebo po obcích. Výstup je **CSV** s definicí adresního místa a jeho souřadnicovým bodem.
 
 
-### Nemovitosti
+### Územní celky
 
 https://vdp.cuzk.cz/vdp/ruian/vymennyformat/vyhledej
 
 **Popis:** Pomocí VDP (veřejný dálkový přístup) je možné získat data k základním územním celkům (stát, kraje, obce, 
-městské části, parcely, stavební objekty). Výstup je **XML**, které se dá zpracovat např. pomocí GDAL ogr2ogr.
+městské části, parcely, stavební objekty, volební okrsky). Výstup je **XML**, které se dá zpracovat např. pomocí GDAL ogr2ogr.
 
 
 ## Výškopis
