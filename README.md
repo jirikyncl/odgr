@@ -307,6 +307,12 @@ https://www.nabidkamajetku.cz
 **Popis:** Otevřená data vysloveně nemají, ale dá se použít jejich API, které používá FE tohohoto webu. Formát **JSON**.
 
 
+## Volby
+
+https://www.volby.cz/opendata/opendata.htm
+
+**Provozuje:** ČSÚ - Český statistický úřad
+
 ## Lokální zdroje
 
 http://www.geoportalpraha.cz/cs/opendata
