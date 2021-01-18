@@ -313,6 +313,14 @@ https://www.volby.cz/opendata/opendata.htm
 
 **Provozuje:** ČSÚ - Český statistický úřad
 
+## Nezaměstnanost
+
+https://data.gov.cz/datov%C3%A1-sada?iri=https%3A%2F%2Fdata.gov.cz%2Fzdroj%2Fdatov%C3%A9-sady%2Fhttp---vdb.czso.cz-pll-eweb-package_show-id-250169r20
+
+**Provozuje:** ČSÚ - Český statistický úřad
+
+**Popis:** Členění podle obcí. Ke každému měsíci je k dispozici počet uchazečů o práci (celkem a žen), dále procentuální nezaměstnanost (celkem, žen).
+
 ## Lokální zdroje
 
 http://www.geoportalpraha.cz/cs/opendata
