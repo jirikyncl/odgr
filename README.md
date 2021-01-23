@@ -285,7 +285,7 @@ http://upadci.justice.cz/cgi-bin/sqw1250.cgi/upkuk/s_i8.sqw
 **Popis:** Webová stránka pro nalezení úpadce. O limitech nevím.
 
 
-## Registr exekucí
+## Exekuce
 
 ### CEE - Centrální evidence exekucí
 
@@ -294,6 +294,18 @@ https://www.ceecr.cz/
 **Provozuje:** Exekutorská komora
 
 **Popis:** Vyhladávání v Centrální evidenci exekucí je **zpoplatněno** ze zákona 329/2008 Sb. (30 - 60 Kč).
+
+## EKCR - Exekutorská komora České republiky
+
+https://statistiky.ekcr.info/statistiky
+
+**Provozuje:** Exekutorská komora
+
+**Popis:** Poskytuje otevřená data pro souhrnné počty exekucí pro různé území (za rok 2019 je to vztaženo k obcím, 2020 ke krajům...). Momentálně (2021) jsou to dva excely. 
+Nad těmito daty jsou postaveny např:
+
+- https://statistiky.ekcr.info/
+- http://mapaexekuci.cz/mapa/index.html
 
 
 ## Dražby 
@@ -313,6 +325,27 @@ https://www.volby.cz/opendata/opendata.htm
 
 **Provozuje:** ČSÚ - Český statistický úřad
 
+
+### Obyvatelstvo
+
+@TODO
+
+
+### Cizinci
+
+@TODO
+
+
+### Úmrtnost
+
+@TODO
+
+
+### Dožití
+
+@TODO
+
+
 ## Nezaměstnanost
 
 https://data.gov.cz/datov%C3%A1-sada?iri=https%3A%2F%2Fdata.gov.cz%2Fzdroj%2Fdatov%C3%A9-sady%2Fhttp---vdb.czso.cz-pll-eweb-package_show-id-250169r20
@@ -320,6 +353,7 @@ https://data.gov.cz/datov%C3%A1-sada?iri=https%3A%2F%2Fdata.gov.cz%2Fzdroj%2Fdat
 **Provozuje:** ČSÚ - Český statistický úřad
 
 **Popis:** Členění podle obcí. Ke každému měsíci je k dispozici počet uchazečů o práci (celkem a žen), dále procentuální nezaměstnanost (celkem, žen).
+
 
 ## Lokální zdroje
 
