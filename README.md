@@ -326,27 +326,48 @@ https://www.volby.cz/opendata/opendata.htm
 **Provozuje:** ČSÚ - Český statistický úřad
 
 
+## Demografie
+
 ### Obyvatelstvo
 
-@TODO
+- https://data.gov.cz/datov%C3%A1-sada?iri=https%3A%2F%2Fdata.gov.cz%2Fzdroj%2Fdatov%C3%A9-sady%2Fhttp---vdb.czso.cz-pll-eweb-package_show-id-130149
+- https://www.czso.cz/csu/xh/mesta_a_obce
+- https://www.czso.cz/csu/czso/databaze-demografickych-udaju-za-obce-cr
+- https://vdb.czso.cz/vdbvo2/faces/cs/index.jsf?page=uziv-dotaz#
+
+**Provozuje:** ČSÚ - Český statistický úřad
+
+**Popis:** Statistické údaje o počtu žen, mužů a věku s přesností na různé územní celky.
 
 
 ### Cizinci
 
-@TODO
+- https://data.gov.cz/datov%C3%A1-sada?iri=https%3A%2F%2Fdata.gov.cz%2Fzdroj%2Fdatov%C3%A9-sady%2Fhttp---vdb.czso.cz-pll-eweb-package_show-id-290038r20
+
+**Provozuje:** ČSÚ - Český statistický úřad
+
+**Popis:** Statistické údaje o počtu žen, mužů a věku s přesností na různé územní celky.
 
 
 ### Úmrtnost
 
-@TODO
+https://data.gov.cz/datov%C3%A1-sada?iri=https%3A%2F%2Fdata.gov.cz%2Fzdroj%2Fdatov%C3%A9-sady%2Fhttp---vdb.czso.cz-pll-eweb-package_show-id-130143
+
+**Provozuje:** ČSÚ - Český statistický úřad
+
+**Popis:** Příčiny úmrtí žen a mužů podle okresů.
 
 
 ### Dožití
 
-@TODO
+https://data.gov.cz/datov%C3%A1-sada?iri=https%3A%2F%2Fdata.gov.cz%2Fzdroj%2Fdatov%C3%A9-sady%2Fhttp---vdb.czso.cz-pll-eweb-package_show-id-130140r17
+
+**Provozuje:** ČSÚ - Český statistický úřad
+
+**Popis:** Předpokládaná délka života různých věkových skupin mužů a žen. Nejmenší území je ORP.
 
 
-## Nezaměstnanost
+### Nezaměstnanost
 
 https://data.gov.cz/datov%C3%A1-sada?iri=https%3A%2F%2Fdata.gov.cz%2Fzdroj%2Fdatov%C3%A9-sady%2Fhttp---vdb.czso.cz-pll-eweb-package_show-id-250169r20
 
