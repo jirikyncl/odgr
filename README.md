@@ -376,6 +376,15 @@ https://data.gov.cz/datov%C3%A1-sada?iri=https%3A%2F%2Fdata.gov.cz%2Fzdroj%2Fdat
 **Popis:** Členění podle obcí. Ke každému měsíci je k dispozici počet uchazečů o práci (celkem a žen), dále procentuální nezaměstnanost (celkem, žen).
 
 
+### Změny
+
+https://data.gov.cz/datov%C3%A1-sada?iri=https%3A%2F%2Fdata.gov.cz%2Fzdroj%2Fdatov%C3%A9-sady%2Fhttp---vdb.czso.cz-pll-eweb-package_show-id-130143
+
+**Provozuje:** ČSÚ - Český statistický úřad
+
+**Popis:** Členění podle obcí. Počty narození a úmrtí, přistěhování a odstěhování.
+
+
 ## Lokální zdroje
 
 http://www.geoportalpraha.cz/cs/opendata
