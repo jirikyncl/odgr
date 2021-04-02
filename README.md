@@ -22,7 +22,7 @@ https://cuzk.cz/Katastr-nemovitosti/Poskytovani-udaju-z-KN/Poskytovani-udaju-z-K
 - **Výměnný formát (VFK)** - vlastní textový formát pro výměnu dat (https://github.com/jirikyncl/vfk-importer)
   - https://services.cuzk.cz/vfk/ku/ - Katastrální mapa - Parcely, stavební objekty, katastrální území, města, popisné informace, věcná břemena ... (existuje placená podoba VFK, kde jsou další údaje o LV, vlastnících, ...)
   - https://services.cuzk.cz/vfk-gmpl/ku/ - Geometrické plány
-- **INSPIRE** - Infrastruktura pro společné informace EU. Data jsou podmnožinou VFK.
+- **INSPIRE** - Infrastruktura pro společné informace EU. Něco zdarma něco placené.
   - https://services.cuzk.cz/gml/inspire/cpx/epsg-5514/ (https://geoportal.cuzk.cz/(S(aifbxjppyy2ext15bcxt3sqg))/Default.aspx?mode=TextMeta&side=INSPIRE_PAR&metadataID=CZ-00025712-CUZK_SERIES-MD_CPX&menu=21501) 
     rozšířené parcely (obsahuje parcely a VB).
 - **Další výstupy** - Pak mají různé typy dat (VKM, DXF, DGN), ale je to vždy podmnožina RUIAN
@@ -33,7 +33,9 @@ který v neplacené podobě (https://services.cuzk.cz/vfk/ku/) obsahuje základn
 
 ### Katalogy
 
-https://data.gov.cz/datov%C3%A9-sady?poskytovatel=%C4%8Cesk%C3%BD%20%C3%BA%C5%99ad%20zem%C4%9Bm%C4%9B%C5%99ick%C3%BD%20a%20katastr%C3%A1ln%C3%AD
+https://data.gov.cz/datov%C3%A9-sady?poskytovatel=https%3A%2F%2Frpp-opendata.egon.gov.cz%2Fodrpp%2Fzdroj%2Forg%C3%A1n-ve%C5%99ejn%C3%A9-moci%2F00025712
+
+Zajímavá sada: https://data.gov.cz/datov%C3%A1-sada?iri=https%3A%2F%2Fdata.gov.cz%2Fzdroj%2Fdatov%C3%A9-sady%2Fhttps---atom.cuzk.cz-api-3-action-package_show-id-cz-00025712-cuzk_data50
 
 
 ## RUIAN - Registr územní identifikace adres a nemovitostí
@@ -55,7 +57,7 @@ https://nahlizenidokn.cuzk.cz/StahniAdresniMistaRUIAN.aspx
 https://vdp.cuzk.cz/vdp/ruian/vymennyformat/vyhledej
 
 **Popis:** Pomocí VDP (veřejný dálkový přístup) je možné získat data k základním územním celkům (stát, kraje, obce, 
-městské části, parcely, stavební objekty, volební okrsky). Výstup je **XML**, které se dá zpracovat např. pomocí GDAL ogr2ogr.
+městské části, parcely, stavební objekty, volební okrsky, sídelní jednotky, ulice). Výstup je **XML**, které se dá zpracovat např. pomocí GDAL ogr2ogr.
 
 
 ## Výškopis
@@ -307,6 +309,10 @@ Nad těmito daty jsou postaveny např:
 - https://statistiky.ekcr.info/
 - http://mapaexekuci.cz/mapa/index.html
 
+## Mapa exekucí
+
+http://mapaexekuci.cz/mapa/index.html
+
 
 ## Dražby 
 
@@ -341,7 +347,22 @@ mzdy, energetika, vzdělání atp. Liší se velikost územní jednotky - něco 
 - *Otevřená data* - https://data.gov.cz/datov%C3%A9-sady?poskytovatel=%C4%8Cesk%C3%BD%20statistick%C3%BD%20%C3%BA%C5%99ad
 - *Katalog produktů* - https://www.czso.cz/csu/czso/otevrena-data-v-katalogu-produktu-csu
 
-Kromě ČSÚ provozuje řadu registrů, viz samostatně.
+Kromě ČSÚ provozuje řadu dalších registrů, viz samostatně.
+
+
+## ČHMÚ
+
+**Provozuje:** ČHMÚ - Český hydrometeorologický ústav
+
+Zneištění ovzduší: https://www.chmi.cz/files/portal/docs/uoco/isko/ozko/19petileti/19petiletzip.html
+
+
+## Provozovny
+
+http://www.rzp.cz/cgi-bin/aps_cacheWEB.sh?VSS_SERV=ZVWSBJFND
+
+**Provozuje:** Ministerstvo průmyslu a obchodu
+**Popis:** Umožňuje vyhledávat provozovny podle IČO
 
 
 
