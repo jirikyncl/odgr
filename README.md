@@ -356,6 +356,19 @@ Kromě ČSÚ provozuje řadu dalších registrů, viz samostatně.
 
 Zneištění ovzduší: https://www.chmi.cz/files/portal/docs/uoco/isko/ozko/19petileti/19petiletzip.html
 
+## Zplavové oblasti
+
+https://heis.vuv.cz/data/webmap/datovesady/isvs/zaplavuzemi/HTML_ISVS$zaplavuzemi$stazeni.asp?doc=full
+
+**Provozuje:** VÚV - Výzkumný úvod vodohospodářský T. G. Masaryka
+**Popis:** Datové sady s oblastmi podle množství vody (5 letá, ...)
+
+## Hlukové mapy
+
+https://inspire-geoportal.ec.europa.eu/download_details.html?view=downloadDetails&resourceId=%2FINSPIRE-16542303-763e-11e4-8b38-52540004b857_20210325-102002%2Fservices%2F1%2FPullResults%2F241-260%2Fdatasets%2F7&expandedSection=metadata
+
+**Provozuje:** MZČR - Ministerstvo zdravotnictví
+**Popis:** VFS - Hlučnost kolem hlavních železnic, silnic a letišť. Dále aglomerací. K dispozici je také zasažené obyvatelstvo.
 
 ## Provozovny
 
@@ -374,6 +387,8 @@ http://opendata.praha.eu/dataset
 
 
 # Katalogy
+
+https://inspire-geoportal.ec.europa.eu/results.html?country=cz&view=details&theme=none
 
 https://data.gov.cz/datov%C3%A9-sady
 
