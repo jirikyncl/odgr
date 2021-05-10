@@ -356,6 +356,8 @@ Kromě ČSÚ provozuje řadu dalších registrů, viz samostatně.
 
 Zneištění ovzduší: https://www.chmi.cz/files/portal/docs/uoco/isko/ozko/19petileti/19petiletzip.html
 
+Počasí: https://www.chmi.cz/historicka-data/pocasi/denni-data/Denni-data-dle-z.-123-1998-Sb
+
 ## Zplavové oblasti
 
 https://heis.vuv.cz/data/webmap/datovesady/isvs/zaplavuzemi/HTML_ISVS$zaplavuzemi$stazeni.asp?doc=full
