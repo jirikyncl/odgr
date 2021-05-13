@@ -14,6 +14,8 @@ https://www.cuzk.cz
 
 **Popis:** ČÚZK shromažďuje údaje o parcelách, budovách, LV, vlastnících, ... Ty poskytuje několika způsoby:
 
+https://www.cuzk.cz/Uvod/Produkty-a-sluzby/Otevrena-data/Sady-otevrenych-dat.aspx
+
 https://cuzk.cz/Katastr-nemovitosti/Poskytovani-udaju-z-KN/Poskytovani-udaju-z-KN.aspx
 
 - **Dálkový přístup do KN** - webová aplikace + webová složba - **placené**
