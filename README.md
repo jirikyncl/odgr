@@ -360,12 +360,18 @@ Zneištění ovzduší: https://www.chmi.cz/files/portal/docs/uoco/isko/ozko/19p
 
 Počasí: https://www.chmi.cz/historicka-data/pocasi/denni-data/Denni-data-dle-z.-123-1998-Sb
 
+Umístění stanic: 
+- https://www.chmi.cz/files/portal/docs/poboc/OS/stanice/js/stanice.js
+- https://www.chmi.cz/files/portal/docs/poboc/OS/stanice/js/staniceElement.js
+
+
 ## Zplavové oblasti
 
 https://heis.vuv.cz/data/webmap/datovesady/isvs/zaplavuzemi/HTML_ISVS$zaplavuzemi$stazeni.asp?doc=full
 
 **Provozuje:** VÚV - Výzkumný úvod vodohospodářský T. G. Masaryka
 **Popis:** Datové sady s oblastmi podle množství vody (5 letá, ...)
+
 
 ## Hlukové mapy
 
@@ -374,6 +380,7 @@ https://inspire-geoportal.ec.europa.eu/download_details.html?view=downloadDetail
 **Provozuje:** MZČR - Ministerstvo zdravotnictví
 **Popis:** VFS - Hlučnost kolem hlavních železnic, silnic a letišť. Dále aglomerací. K dispozici je také zasažené obyvatelstvo.
 
+
 ## Provozovny
 
 http://www.rzp.cz/cgi-bin/aps_cacheWEB.sh?VSS_SERV=ZVWSBJFND
@@ -381,6 +388,13 @@ http://www.rzp.cz/cgi-bin/aps_cacheWEB.sh?VSS_SERV=ZVWSBJFND
 **Provozuje:** Ministerstvo průmyslu a obchodu
 **Popis:** Umožňuje vyhledávat provozovny podle IČO
 
+
+## Mobilní signál
+
+https://data.gov.cz/datov%C3%A1-sada?iri=https%3A%2F%2Fdata.gov.cz%2Fzdroj%2Fdatov%C3%A9-sady%2Fhttp---data.ctu.cz-api-3-action-package_show-id-e3fcdefc-a936-45df-85c4-8e7d504e64df
+
+**Provozuje:** Český telekomunikační úřad
+**Popis:** Stacionární měření signálu O2, TM, Vodafone
 
 
 ## Lokální zdroje
