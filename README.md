@@ -393,8 +393,15 @@ http://www.rzp.cz/cgi-bin/aps_cacheWEB.sh?VSS_SERV=ZVWSBJFND
 
 https://data.gov.cz/datov%C3%A1-sada?iri=https%3A%2F%2Fdata.gov.cz%2Fzdroj%2Fdatov%C3%A9-sady%2Fhttp---data.ctu.cz-api-3-action-package_show-id-e3fcdefc-a936-45df-85c4-8e7d504e64df
 
-**Provozuje:** Český telekomunikační úřad
+**Provozuje:** ČTÚ - Český telekomunikační úřad
 **Popis:** Stacionární měření signálu O2, TM, Vodafone
+
+## Pokrytí NGA 
+
+https://data.gov.cz/datov%C3%A1-sada?iri=https%3A%2F%2Fdata.gov.cz%2Fzdroj%2Fdatov%C3%A9-sady%2Fhttp---data.ctu.cz-api-3-action-package_show-id-1db7e17d-0954-47a7-a2aa-1eb370797272
+
+**Provozuje:** ČTÚ - Český telekomunikační úřad
+**Popis:** Počet pokrytých adresních bodů v základní sídelní jednotce
 
 
 ## Lokální zdroje
