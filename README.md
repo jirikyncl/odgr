@@ -195,7 +195,8 @@ a jsou ve formátech **XML** a **CSV**. ARES bulk export je právě pro tento re
 
 http://www.rzp.cz/
 
-@TODO
+**Provozuje:** MS - Ministerstvo obchodu a průmyslu
+**Popis:** Umožňuje vyhledání subjektu podle IČO, názvu a podobně. Výpis zahrnuje například provozovny, historii, osoby.
 
 
 ### RES - Registr ekonomických subjektů
