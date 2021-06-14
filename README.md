@@ -404,6 +404,13 @@ https://data.gov.cz/datov%C3%A1-sada?iri=https%3A%2F%2Fdata.gov.cz%2Fzdroj%2Fdat
 **Provozuje:** ČTÚ - Český telekomunikační úřad
 **Popis:** Počet pokrytých adresních bodů v základní sídelní jednotce
 
+## Pokrytí internetem
+
+https://www.verejnakonzultace.cz/
+
+**Provozuje:** Ministerstvo průmyslu a obchodu (MPO)
+**Popis:** Obsahuje ADM a jejich rychlost pokrytí
+
 
 ## Lokální zdroje
 
