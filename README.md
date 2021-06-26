@@ -404,12 +404,25 @@ https://data.gov.cz/datov%C3%A1-sada?iri=https%3A%2F%2Fdata.gov.cz%2Fzdroj%2Fdat
 **Provozuje:** ČTÚ - Český telekomunikační úřad
 **Popis:** Počet pokrytých adresních bodů v základní sídelní jednotce
 
+
 ## Pokrytí internetem
 
 https://www.verejnakonzultace.cz/
 
 **Provozuje:** Ministerstvo průmyslu a obchodu (MPO)
 **Popis:** Obsahuje ADM a jejich rychlost pokrytí
+
+
+## Česká geologická služba (ČGS)
+
+https://www.verejnakonzultace.cz/
+
+**Provozuje:** Ministerstvo životního prostředí (MZP)
+**Popis:** Poskytuje databázi, prohlížecí a stahovací služby. 
+
+- http://www.geology.cz/extranet/vav/informacni-systemy/data/databaze-cgs
+- http://www.geology.cz/extranet/mapy/mapy-online/stahovaci-sluzby
+- http://www.geology.cz/extranet/mapy/mapy-online/wms
 
 
 ## Lokální zdroje
