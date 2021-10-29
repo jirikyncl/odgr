@@ -415,14 +415,25 @@ https://www.verejnakonzultace.cz/
 
 ## Česká geologická služba (ČGS)
 
-https://www.verejnakonzultace.cz/
+https://www.geology.cz/
 
 **Provozuje:** Ministerstvo životního prostředí (MZP)
-**Popis:** Poskytuje databázi, prohlížecí a stahovací služby. 
+**Popis:** Poskytuje databázi, prohlížecí a stahovací služby. Horniny, půdy, geohazardy, ...
 
 - http://www.geology.cz/extranet/vav/informacni-systemy/data/databaze-cgs
 - http://www.geology.cz/extranet/mapy/mapy-online/stahovaci-sluzby
 - http://www.geology.cz/extranet/mapy/mapy-online/wms
+- https://mapy.geology.cz/arcgis/rest/services/
+
+
+## Školy
+
+**Provozuje:** Česká školní inspekce, Ministerstvo čkolství
+**Popis:** školy a školská zařízení
+
+- https://data.gov.cz/datov%C3%A1-sada?iri=https%3A%2F%2Fdata.gov.cz%2Fzdroj%2Fdatov%C3%A9-sady%2F00638994%2F730385825
+- https://data.gov.cz/datov%C3%A1-sada?iri=https%3A%2F%2Fdata.gov.cz%2Fzdroj%2Fdatov%C3%A9-sady%2Fhttps---data.msmt.cz-api-3-action-package_show-id-rejstrik-skol-a-skolskych-zarizeni-cela-cr
+
 
 
 ## Lokální zdroje
