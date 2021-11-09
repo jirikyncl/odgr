@@ -434,7 +434,9 @@ https://www.geology.cz/
 - https://data.gov.cz/datov%C3%A1-sada?iri=https%3A%2F%2Fdata.gov.cz%2Fzdroj%2Fdatov%C3%A9-sady%2F00638994%2F730385825
 - https://data.gov.cz/datov%C3%A1-sada?iri=https%3A%2F%2Fdata.gov.cz%2Fzdroj%2Fdatov%C3%A9-sady%2Fhttps---data.msmt.cz-api-3-action-package_show-id-rejstrik-skol-a-skolskych-zarizeni-cela-cr
 
+## Openstreet maps
 
+https://wiki.openstreetmap.org/wiki/Czech_Republic  
 
 ## Lokální zdroje
 
