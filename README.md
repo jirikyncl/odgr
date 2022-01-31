@@ -357,14 +357,15 @@ Kromě ČSÚ provozuje řadu dalších registrů, viz samostatně.
 
 **Provozuje:** ČHMÚ - Český hydrometeorologický ústav
 
-Zneištění ovzduší: https://www.chmi.cz/files/portal/docs/uoco/isko/ozko/19petileti/19petiletzip.html
+Znečištění ovzduší: https://www.chmi.cz/files/portal/docs/uoco/isko/ozko/19petileti/19petiletzip.html
+
+Zdroje Znečištění ovzduší: https://www.chmi.cz/files/portal/docs/uoco/web_generator/plants/index_CZ.html
 
 Počasí: https://www.chmi.cz/historicka-data/pocasi/denni-data/Denni-data-dle-z.-123-1998-Sb
 
 Umístění stanic: 
 - https://www.chmi.cz/files/portal/docs/poboc/OS/stanice/js/stanice.js
 - https://www.chmi.cz/files/portal/docs/poboc/OS/stanice/js/staniceElement.js
-
 
 ## Zplavové oblasti
 
@@ -433,6 +434,19 @@ https://www.geology.cz/
 
 - https://data.gov.cz/datov%C3%A1-sada?iri=https%3A%2F%2Fdata.gov.cz%2Fzdroj%2Fdatov%C3%A9-sady%2F00638994%2F730385825
 - https://data.gov.cz/datov%C3%A1-sada?iri=https%3A%2F%2Fdata.gov.cz%2Fzdroj%2Fdatov%C3%A9-sady%2Fhttps---data.msmt.cz-api-3-action-package_show-id-rejstrik-skol-a-skolskych-zarizeni-cela-cr
+
+## Skládky
+
+**Provozuje:** ?
+
+- http://mapaskladek.aspone.cz
+
+## Kontaminované lokality
+
+**Provozuje:** MŽP
+**Popis:** Systém pro evidenci kontaminovaných lokalit
+
+- https://www.sekm.cz/portal/
 
 ## Openstreet maps
 
